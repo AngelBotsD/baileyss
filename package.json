@@ -4,7 +4,8 @@
   "description": "Custom Baileys WhatsApp API",
   "keywords": [
     "baileys", "wabot", "whatsapp",
-    "js-whatsapp", "whatsapp-api", "whatsapp-web", "whatsapp-bot",
+    "js-whatsapp", "whatsapp-api",
+    "whatsapp-web", "whatsapp-bot",
     "automation", "multi-device"
   ],
   "homepage": "https://developers.facebook.com/docs/whatsapp/",
