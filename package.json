@@ -25,7 +25,7 @@
     "build:all": "tsc",
     "build:tsc": "tsc",
     "gen:protobuf": "sh WAProto/GenerateStatics.sh",
-    "lint": "eslint lib --ext .js,.ts",
+    "lint": "eslint src --ext .js,.ts",
     "lint:fix": "yarn lint --fix",
     "prepack": "tsc",
     "prepare": "tsc",
